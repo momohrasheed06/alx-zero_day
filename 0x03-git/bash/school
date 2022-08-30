@@ -4,11 +4,11 @@ HEAD
 echo School
 =======
 The school is open!
-update_script
+ update_script
 =======
 update_script
 The school is open!
 =======
 echo School
 master
-update_script
+ update_script
